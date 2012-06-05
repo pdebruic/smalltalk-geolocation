@@ -1,0 +1,15 @@
+{
+	"category" : "Geolocation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PaulDeBruicker 5/17/2010 13:03",
+	"instvars" : [
+		"ip",
+		"location" ],
+	"name" : "GLLookup",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

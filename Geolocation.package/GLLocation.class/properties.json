@@ -1,0 +1,24 @@
+{
+	"category" : "Geolocation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PaulDeBruicker 5/17/2010 13:01",
+	"instvars" : [
+		"isoCountryCode",
+		"longitude",
+		"latitude",
+		"zipPostalCode",
+		"city",
+		"countryName",
+		"regionCode",
+		"regionName",
+		"timeZone",
+		"gmtOffset",
+		"dstOffset" ],
+	"name" : "GLLocation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

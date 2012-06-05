@@ -1,0 +1,15 @@
+{
+	"category" : "Geolocation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ip",
+		"location" ],
+	"name" : "GLLookupMySQL",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
